@@ -17,14 +17,17 @@
     "@types/node": "^22.7.4",
     "antd": "^5.21.3",
     "axios": "^1.7.7",
+    "dayjs": "^1.11.13",
     "dexie": "^4.0.8",
     "dexie-react-hooks": "^1.1.7",
+    "lodash": "^4.17.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "vite-plugin-zip-pack": "^1.2.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
+    "@types/lodash": "^4.17.10",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.2",
